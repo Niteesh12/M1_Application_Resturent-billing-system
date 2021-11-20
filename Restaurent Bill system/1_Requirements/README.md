@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- --- TBD 
+The Restaurent Billing System is developed on visual basic langauge which mainly focuses on basic operations in a restaurent like -View Menu, Select Order, View Order, Select Quality, Calculate Discount and Tax, Generate bill. 
 
 ## Research
 ![Description](Link to Pic)
