@@ -1,5 +1,4 @@
 # M1_Application_Resturent-billing-system 
-# Restaurent Billing System
 ### Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
