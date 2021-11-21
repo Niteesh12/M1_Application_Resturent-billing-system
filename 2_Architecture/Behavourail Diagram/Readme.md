@@ -1,3 +1,3 @@
 Behavourail Diagram
+![4-55d9dd3e9a](https://user-images.githubusercontent.com/49491210/142772047-bb716446-9b61-4cdd-b8fb-855d808dedd7.jpg)
 
-[3-573489ad7d](https://user-images.githubusercontent.com/49491210/142766039-faec827e-b50c-4e90-a510-f7f8c25780f0.jpg)
