@@ -11,4 +11,15 @@
    * Reporting
    * Inventory
    * Product Mix & Menu Reports
-
+   
+## SWOT ANALSIS
++ Strength
+  + Easy to setup and user-friendly interface to ensure effortless billing and   no business loss.
+   + Both offline and online friendly systems that will not get affected due to network issues.
+   + Quick and accessible sales reporting to make your operations effortless
++ Weakness
+   + It is not cost-effective for small scale business owners.
+   + Invoices can go into spam folders due to flagging by email servers; that leads to delay of payments.
+   + Reaching offline customers who do not access the internet makes the     process difficult.
+   + Automatic invoices and management system reduces human mediation, which reduces personal touch for the business.
+   + Irregularity of updates can lead to hardships and hassles between purchases and credits.
