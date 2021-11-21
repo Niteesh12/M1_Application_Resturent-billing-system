@@ -10,7 +10,28 @@
    * Quick Billing & Ease Of Use
    * Reporting
    * Inventory
-   * Product Mix & Menu Reports
+   * Product Mix & Menu Reports # 4W&#39;s and 1&#39;H
+
+## Who: 
+
+    This software system is to useful who looks for basic restaurent billing modules like generating invoice for the customers
+
+## What:
+
+    This system for monitor and controlling the transcations and generating the bills
+
+## When:
+
+    These software system has useful to when users had feel difficulty or who has to searching for basic software 
+
+## Where:
+
+    This system works with web on laptops or mobiles , Desktops 
+
+## How:
+
+    when users have recevied the customers order and data, the system has generate the customer bills 
+   
    
 ## SWOT ANALSIS
   |    Strength                |             Weakness                |
@@ -23,6 +44,9 @@
   |           ---------            |          -------              |
   | Income Level has been Grown | Loss of revenue due to failed payments
   | Findings ways to to generate more traffic during slow times, such as in the afternoon, may represent on opurtunity for growth |Lack of Third-Party Integration
+  
+  
+ 
 
  
  
