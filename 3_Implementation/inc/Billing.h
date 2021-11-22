@@ -8,8 +8,14 @@
  * @copyright Copyright (c) 2021
  * 
  */
+
 #ifndef __Billing__H
 #define __Billing__H
-int qty();
+
+#include "stdio.h"
+#include "string.h"
+#include "stdlib.h"
+int qty;
 int numOfItems;
-end if;
+int opt,n;
+#endif
