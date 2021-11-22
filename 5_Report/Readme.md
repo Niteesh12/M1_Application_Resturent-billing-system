@@ -51,8 +51,15 @@ Folder             | Description
 Flow Diagram 
 ![Flow chart](https://user-images.githubusercontent.com/49491210/142775012-3aabfc80-1ec1-4fea-8306-4f7c588732aa.png)
 
-   
-## SWOT ANALSIS
+Structured Diagram!
+
+![4-55d9dd3e9a](https://user-images.githubusercontent.com/49491210/142774932-39e915ca-fc67-41b1-a110-1507d0cc7731.jpg)
+
+##Defining Our Ststem
+### **IDE:**
+- Visual Studio Code
+
+   ## SWOT ANALSIS
   |    Strength                |             Weakness                |
   |   ---------                |             -------------           |
   | Easy to setup and user-friendly interface to ensure effortless billing and no business loss | It is not cost-effective for small scale business owners 
