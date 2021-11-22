@@ -16,8 +16,6 @@ struct orders
 	int numOfItems;
 	struct items itm[50];
 };
-
-
 //functions to generate bills
 void generateBillHeader(char name[50],char date[30])
 {
@@ -42,6 +40,9 @@ void generateBillBody(char item[30],int qty, float price)
 	printf("\n");
 }
 
+
+
+
 void generateBillFooter(float total)
 {
 	printf("\n");
@@ -59,8 +60,6 @@ void generateBillFooter(float total)
 	printf("\nGrand Total\t\t\t%.2f",grandTotal);
 	printf("\n-----------------------------------------\n");
 }
-
-
 int main()
 {
 	int opt,n;
