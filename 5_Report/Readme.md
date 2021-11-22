@@ -1,10 +1,11 @@
+# M1_Application_Resturent-billing-system 
 # Requirements
 ## Introduction
 *  Restaurent Billing System is for monitoring and controlling the transctions     in a Restaurent.
 *  The System was developed on visual basic langauage which mainly focuses on      basic operations like -View menu, Select Order, View Order, Generate      Invoice,    data searching, Calculate Discount and Tax.
 
 
-# M1_Application_Resturent-billing-system 
+
 ### Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
