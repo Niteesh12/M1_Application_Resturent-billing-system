@@ -8,3 +8,5 @@ Folder             | Description
 `4_Test_plan`      | Documents with test plans and procedures
 
 
+[![CI](https://github.com/Niteesh12/M1_Application_Resturent-billing-system/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Niteesh12/M1_Application_Resturent-billing-system/actions/workflows/main.yml)
+
