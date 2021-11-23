@@ -9,3 +9,6 @@ Folder             | Description
 
 
 [![CI](https://github.com/Niteesh12/M1_Application_Resturent-billing-system/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Niteesh12/M1_Application_Resturent-billing-system/actions/workflows/main.yml)       [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d271bdbc316149329867a487c0db4bf3)](https://www.codacy.com/gh/Niteesh12/M1_Application_Resturent-billing-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Niteesh12/M1_Application_Resturent-billing-system&amp;utm_campaign=Badge_Grade)
+
+- name: cppcheck-action
+  uses: deep5050/cppcheck-action@v3.0
