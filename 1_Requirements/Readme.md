@@ -48,13 +48,13 @@
 ## HIGH LEVEL REQUIREMENTS
 | ID | Description | Category |
 |---------|--------|----------|
-| HLR_01 | Visual Studio code Platform| software | 
-| HLR_02 |windows or linux OS | software | 
+| HLR_01 |Visual Studio code Platform|software| 
+| HLR_02 |windows or linux OS|software| 
 ## LOW LEVEL REQUIREMENTS
 | ID | description |
 |-----|------------|
-|LLR_01 | Admin need to insert all details about customer|
-|LLR_02 | Admin must generate a bill with GST |
+|LLR_01 |Admin need to insert all details about customer|
+|LLR_02 |Admin must generate a bill with GST|
   
   
  
