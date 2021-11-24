@@ -45,7 +45,7 @@
   | Income Level has been Grown | Loss of revenue due to failed payments
   | Findings ways to to generate more traffic during slow times, such as in the afternoon, may represent on opurtunity for growth |Lack of Third-Party Integration
   
-  ## HIGH LEVEL REQUIREMENTS
+## HIGH LEVEL REQUIREMENTS
 | ID | Description | Category |
 |---------|--------|----------|
 | HLR_01 | Visual Studio code Platform| software | 
