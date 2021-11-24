@@ -13,15 +13,15 @@
 #include<string.h>
 struct items
 {
-  char item[20];
-	float price;
-	int qty;
+  char item[20]
+	float price
+	int qty
 };
 
 struct orders
 {
-	char customer[50];
-	char date[50];
-	int numOfItems;
-	struct items itm[50];
+	char customer[50]
+	char date[50]
+	int numOfItems
+	struct items itm[50]
 };
