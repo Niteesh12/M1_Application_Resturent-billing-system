@@ -77,7 +77,7 @@ printf("\n2.Show all Invoices");
 printf("\n3.Search Invoice");
 printf("\n4.Exit");
 printf("\n\nYour choice:\t");
-scanf("%d",&opt);
+scanf("%4d",&opt);
 fgetc(stdin);
 switch(opt)
 {
@@ -88,7 +88,7 @@ fgets(ord.customer,50,stdin);
 ord.customer[strlen(ord.customer)-1] = 0;
 strcpy(ord.date,__DATE__);
 printf("\nPlease enter the number of items:\t");
-scanf("%d",&n);
+scanf("%4d",&n);
 ord.numOfItems = n;
 for(int i=0;i<n;i++)
 {
@@ -98,9 +98,9 @@ printf("Please enter the item %d:\t",i+1);
 fgets(ord.itm[i].item,20,stdin);
 ord.itm[i].item[strlen(ord.itm[i].item)-1]=0;
 printf("Please enter the qauntity:\t");
-scanf("%d",&ord.itm[i].qty);
+scanf("%4d",&ord.itm[i].qty);
 printf("Please enter the unit price:\t");
-scanf("%f",&ord.itm[i].price);
+scanf("%4f",&ord.itm[i].price);
 total += ord.itm[i].qty * ord.itm[i].price;
 }
 generateBillHeader(ord.customer,ord.date);
