@@ -8,10 +8,10 @@ searching,Calculate Discount and Tax.
 ### Cost--
 * It is desirable to aim for a system with a minimum cost subject to the condition that it must satisfy all requirements & maintain maintenance.
 ### Features--
-* Quick Billing & Ease Of Use
-* Reporting
-* Inventory
-* Product Mix & Menu Reports # 4W&#39;s and 1&#39;H
+  * Quick Billing & Ease Of Use
+  * Reporting
+  * Inventory
+  * Product Mix & Menu Reports # 4W&#39;s and 1&#39;H
 
 ## Who
 
