@@ -44,8 +44,8 @@ Folder             | Description
 
     when users have recevied the customers order and data, the system has generate the customer bills 
    
-    
- Behavourail Diagram!
+    Behavourail Diagram!
+
 ![3-573489ad7d](https://user-images.githubusercontent.com/49491210/142775002-6619329e-e589-4fd7-a0db-d5edc36b5a33.jpg)
 
 Flow Diagram!
