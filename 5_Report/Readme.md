@@ -4,8 +4,6 @@
 *  Restaurent Billing System is for monitoring and controlling the transctions in a Restaurent.
 *  The System was developed on visual basic langauage which mainly focuses on basic operations like -View menu, Select Order, View Order, Generate Invoice, data searching,      Calculate Discount and Tax.
 
-
-
 ### Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
@@ -55,7 +53,7 @@ Folder             | Description
 
 ## Defining Our Ststem
 ### **IDE**
-- Visual Studio Code
+  * Visual Studio Code
 
    ## SWOT ANALSIS
   |    Strength                |             Weakness                |
