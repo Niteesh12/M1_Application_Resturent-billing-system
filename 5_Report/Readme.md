@@ -2,7 +2,7 @@
 # Requirements
 ## Introduction
 *  Restaurent Billing System is for monitoring and controlling the transctions in a Restaurent.
-*  The System was developed on visual basic langauage which mainly focuses on basic operations like -View menu, Select Order, View Order, Generate      Invoice,    data searching, Calculate Discount and Tax.
+*  The System was developed on visual basic langauage which mainly focuses on basic operations like -View menu, Select Order, View Order, Generate Invoice, data searching,      Calculate Discount and Tax.
 
 
 
@@ -56,22 +56,22 @@ Structured Diagram!
 ![Flow Chart](https://user-images.githubusercontent.com/49491210/142911583-ba84b611-8b55-494e-a523-e5e0b3e09a5c.png)
 
 ## Defining Our Ststem
-### **IDE:**
+### **IDE**
 - Visual Studio Code
 
    ## SWOT ANALSIS
   |    Strength                |             Weakness                |
   |   ---------                |             -------------           |
   | Easy to setup and user-friendly interface to ensure effortless billing and no business loss | It is not cost-effective for small scale business owners 
-  | Both offline and online friendly systems that will not get affected due to network issues | Invoices can go into spam folders due to flagging by email servers that leads to     delay of payments 
-  | Quick and accessible sales reporting to make your operations effortless | Automatic invoices and management system reduces human mediation, which reduces personal touch for     the business
+  | Both offline and online friendly systems that will not get affected due to network issues | Invoices can go into spam folders due to flagging by email servers that leads     to delay of payments 
+  | Quick and accessible sales reporting to make your operations effortless | Automatic invoices and management system reduces human mediation, which reduces personal touch       for the business
 
   |            Opurtunites         |          Threats              |
   |           ---------            |          -------              |
   | Income Level has been Grown | Loss of revenue due to failed payments
   | Findings ways to to generate more traffic during slow times, such as in the afternoon, may represent on opurtunity for growth |Lack of Third-Party Integration
   
-  ## HIGH LEVEL REQUIREMENTS
+## HIGH LEVEL REQUIREMENTS
 | ID | Description | Category |
 |---------|--------|----------|
 | HLR_01 | Visual Studio code Platform| software | 
