@@ -111,7 +111,7 @@ generateBillBody(ord.itm[i].item,ord.itm[i].qty,ord.itm[i].price);
 generateBillFooter(total);
 
 printf("\nDo you want to save the incioce [y/n]:\t");
-scanf("%s",&saveBill);
+scanf("%4s", &SaveBill);
 
 if(saveBill == 'y')
 {
