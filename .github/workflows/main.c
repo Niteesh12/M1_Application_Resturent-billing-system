@@ -181,7 +181,7 @@ printf("Sorry invalid option");
 break;
 }
 printf("\nDo you want to perform another operation?[y/n]:\t");
-scanf("%s",&contFlag);
+scanf("%4s",&contFlag);
 }
 printf("\n\t\t Bye Bye :)\n\n");
 printf("\n\n");
