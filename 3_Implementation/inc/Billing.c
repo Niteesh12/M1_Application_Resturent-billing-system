@@ -13,7 +13,7 @@
 #include<string.h>
 struct items
 {
-  char item[20];
+  char itm[20];
 	float price;
 	int qty;
 };
