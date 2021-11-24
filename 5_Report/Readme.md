@@ -24,23 +24,23 @@ Folder             | Description
    * Inventory
    * Product Mix & Menu Reports # 4W&#39;s and 1&#39;H
 
-## Who: 
+## Who
 
     This software system is to useful who looks for basic restaurent billing modules like generating invoice for the customers
 
-## What:
+## What
 
     This system for monitor and controlling the transcations and generating the bills
 
-## When:
+## When
 
     These software system has useful to when users had feel difficulty or who has to searching for basic software 
 
-## Where:
+## Where
 
     This system works with web on laptops or mobiles , Desktops 
 
-## How:
+## How
 
     when users have recevied the customers order and data, the system has generate the customer bills 
     
