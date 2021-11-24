@@ -19,7 +19,7 @@ struct orders
 //functions to generate bills
 void generateBillHeader(char name[50],char date[30])
 {
-	printf("\n\n");
+    printf("\n\n");
     printf("\t      STHIRA. Restaurant");
     printf("\n\t    ------------------");
     printf("\nDate:%s",date);
@@ -81,7 +81,7 @@ int main()
 	printf("\n4.Exit");
 
 	printf("\n\nYour choice:\t");
-	scanf("%d",&opt);
+	scanf("%4d",&opt);
 	fgetc(stdin);
 	switch(opt)
 	{
@@ -92,7 +92,7 @@ int main()
 		ord.customer[strlen(ord.customer)-1] = 0;
 		strcpy(ord.date,__DATE__);
 		printf("\nPlease enter the number of items:\t");
-		scanf("%d",&n);
+		scanf("%4d",&n);
 		ord.numOfItems = n;
 		for(int i=0;i<n;i++)
 		{
@@ -102,9 +102,9 @@ int main()
 			fgets(ord.itm[i].item,20,stdin);
 			ord.itm[i].item[strlen(ord.itm[i].item)-1]=0;
 			printf("Please enter the qauntity:\t");
-			scanf("%d",&ord.itm[i].qty);
+			scanf("%4d",&ord.itm[i].qty);
 			printf("Please enter the unit price:\t");
-			scanf("%f",&ord.itm[i].price);
+			scanf("%4f",&ord.itm[i].price);
 			total += ord.itm[i].qty * ord.itm[i].price;
 		}
 
@@ -116,7 +116,7 @@ int main()
 		generateBillFooter(total);
 
 		printf("\nDo you want to save the incioce [y/n]:\t");
-		scanf("%s",&saveBill);
+		scanf("%4s",&saveBill);
 
 		if(saveBill == 'y')
 		{
@@ -188,7 +188,7 @@ int main()
 						break;
 						}
 						printf("\nDo you want to perform another operation?[y/n]:\t");
-						scanf("%s",&contFlag);
+						scanf("%4s",&contFlag);
 						}
 						printf("\n\t\t Bye Bye :)\n\n");
 						printf("\n\n");
